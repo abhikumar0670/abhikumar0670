@@ -127,10 +127,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikumar0670&layout=compact&theme=tokyonight" width="100%"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikumar0670&theme=tokyonight" width="100%"/>
+      <!-- Replace with working alternative below -->
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abhikumar0670?theme=tokyonight" width="100%"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
