@@ -95,6 +95,12 @@
     <p><strong>HR Dashboard</strong><br>Interactive dashboard for managing HR data and employee records.</p>
   </td>
   <td>
+  <a href="https://prep-route.vercel.app/">
+    <img src="https://img.shields.io/badge/PrepRoute-Live Demo-green?style=for-the-badge&logo=vercel" />
+  </a>
+  <p><strong>PrepRoute</strong><br>Interactive LeetCode company-wise question prep platform.</p>
+</td>
+  <td>
     <a href="https://url-shortener-ten-beta.vercel.app/">
       <img src="https://img.shields.io/badge/URL--Shortener-Live Demo-blue?style=for-the-badge&logo=vercel" />
     </a>
