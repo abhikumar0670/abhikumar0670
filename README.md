@@ -83,31 +83,32 @@
 <table align="center">
 <tr>
   <td>
-  <a href="https://sawaikar-s-cashew-store.vercel.app/">
-    <img src="https://img.shields.io/badge/Sawaikar's Cashew Store-Live Demo-green?style=for-the-badge&logo=vercel" />
-  </a>
-  <p><strong>Sawaikar's Cashew Store</strong><br>E-commerce store for dry fruits built using React.</p>
-</td>
+    <a href="https://sawaikar-s-cashew-store.vercel.app/">
+      <img src="https://img.shields.io/badge/Sawaikar's Cashew Store-Live Demo-green?style=for-the-badge&logo=vercel&labelWidth=200" />
+    </a>
+    <p><strong>Sawaikar's Cashew Store</strong><br>E-commerce store for dry fruits built using React.</p>
+  </td>
   <td>
     <a href="https://hr-dashboard-webapp-pn4i7k1ed-abhishek-kumars-projects-1de91d80.vercel.app/">
-      <img src="https://img.shields.io/badge/HR Dashboard-Live Demo-blue?style=for-the-badge&logo=vercel" />
+      <img src="https://img.shields.io/badge/HR Dashboard-Live Demo-blue?style=for-the-badge&logo=vercel&labelWidth=200" />
     </a>
     <p><strong>HR Dashboard</strong><br>Interactive dashboard for managing HR data and employee records.</p>
   </td>
   <td>
-  <a href="https://prep-route.vercel.app/">
-    <img src="https://img.shields.io/badge/PrepRoute-Live Demo-green?style=for-the-badge&logo=vercel" />
-  </a>
-  <p><strong>PrepRoute</strong><br>Interactive LeetCode company-wise question prep platform.</p>
-</td>
+    <a href="https://prep-route.vercel.app/">
+      <img src="https://img.shields.io/badge/PrepRoute-Live Demo-green?style=for-the-badge&logo=vercel&labelWidth=200" />
+    </a>
+    <p><strong>PrepRoute</strong><br>Interactive LeetCode company-wise question prep platform.</p>
+  </td>
   <td>
     <a href="https://url-shortener-ten-beta.vercel.app/">
-      <img src="https://img.shields.io/badge/URL--Shortener-Live Demo-blue?style=for-the-badge&logo=vercel" />
+      <img src="https://img.shields.io/badge/URL--Shortener-Live Demo-blue?style=for-the-badge&logo=vercel&labelWidth=200" />
     </a>
     <p><strong>URL Shortener</strong><br>A simple tool to shorten long URLs with analytics.</p>
   </td>
 </tr>
 </table>
+
 
 <!-- Table Style with Tech Stack and Status -->
 <br>
