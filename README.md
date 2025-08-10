@@ -83,11 +83,11 @@
 <table align="center">
 <tr>
   <td>
-    <a href="https://url-shortener-ten-beta.vercel.app/">
-      <img src="https://img.shields.io/badge/URL--Shortener-Live Demo-blue?style=for-the-badge&logo=vercel" />
-    </a>
-    <p><strong>URL Shortener</strong><br>A simple tool to shorten long URLs with analytics.</p>
-  </td>
+  <a href="https://sawaikar-s-cashew-store.vercel.app/">
+    <img src="https://img.shields.io/badge/Sawaikar's Cashew Store-Live Demo-green?style=for-the-badge&logo=vercel" />
+  </a>
+  <p><strong>Sawaikar's Cashew Store</strong><br>E-commerce store for dry fruits built using React.</p>
+</td>
   <td>
     <a href="https://hr-dashboard-webapp-pn4i7k1ed-abhishek-kumars-projects-1de91d80.vercel.app/">
       <img src="https://img.shields.io/badge/HR Dashboard-Live Demo-blue?style=for-the-badge&logo=vercel" />
@@ -95,10 +95,10 @@
     <p><strong>HR Dashboard</strong><br>Interactive dashboard for managing HR data and employee records.</p>
   </td>
   <td>
-    <a href="https://sawaikarcashewstore.netlify.app/">
-      <img src="https://img.shields.io/badge/Cashew Store-Live Demo-green?style=for-the-badge&logo=netlify" />
+    <a href="https://url-shortener-ten-beta.vercel.app/">
+      <img src="https://img.shields.io/badge/URL--Shortener-Live Demo-blue?style=for-the-badge&logo=vercel" />
     </a>
-    <p><strong>Cashew Store</strong><br>E-commerce store for dry fruits built using React.</p>
+    <p><strong>URL Shortener</strong><br>A simple tool to shorten long URLs with analytics.</p>
   </td>
 </tr>
 </table>
@@ -108,7 +108,7 @@
 
 | 📌 Project | 🧰 Tech Stack | 📝 Description |
 |-----------|---------------|----------------|
-| [🛍️ Dry Fruits eCommerce](https://github.com/abhikumar0670/dry-fruits-store) | Laravel, PHP, MySQL | Online store for premium dry fruits with payment gateway integration |
+| [🛍️ Dry Fruits eCommerce](https://sawaikar-s-cashew-store.vercel.app/) | React.js, JavaScript, CSS3, React Router DOM, EmailJS, Vercel | Online store for premium dry fruits with payment gateway integration |
 | [📊 Trading Platform (Coming Soon)]() | React.js, KLineChart, Node.js | ⏳ Real-time trading UI with chart tools, SL/TP management |
 | [🛡️ AI Ransomware Protection Tool (Coming Soon)]() | Python, Machine Learning | ⏳ Smart detection and prevention of ransomware attacks |
 
