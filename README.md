@@ -146,7 +146,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhikumar0670&theme=tokyonight&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhikumar0670&theme=tokyonight&column=7&cache_buster=1" />
 </p>
 
 ---
@@ -160,8 +160,6 @@
 
 
 ---
-
-
 
 
 
