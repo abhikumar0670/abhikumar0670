@@ -116,6 +116,7 @@
 | 📌 Project | 🧰 Tech Stack | 📝 Description |
 |-----------|---------------|----------------|
 | [🛍️ Dry Fruits eCommerce](https://sawaikar-s-cashew-store.vercel.app/) | React.js, JavaScript, CSS3, React Router DOM, EmailJS, Vercel | Online store for premium dry fruits with payment gateway integration |
+| [🤖📚 AI-Based Learning Tutor 🎓✨(Coming Soon)]() | React.js, JavaScript, CSS3, React Router DOM, EmailJS, OpenAI API, Node.js (Express), MongoDB Atlas, JWT, Vercel, Render | ⏳🤖📚 AI-Based Learning Tutor with personalized lessons, interactive Q&A chatbot, progress tracking, and adaptive learning paths |
 | [📊 Trading Platform (Coming Soon)]() | React.js, KLineChart, Node.js | ⏳ Real-time trading UI with chart tools, SL/TP management |
 | [🛡️ AI Ransomware Protection Tool (Coming Soon)]() | Python, Machine Learning | ⏳ Smart detection and prevention of ransomware attacks |
 
