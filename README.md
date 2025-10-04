@@ -1,10 +1,12 @@
 ![image](https://user-images.githubusercontent.com/118982365/210008467-32f26997-94c9-47d9-a253-1896f4fcb9f9.png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+
 <h3 align="center">🚀 A passionate software developer from India who loves learning & building!</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2FF7DF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abhishek+Kumar;Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MySQL;Let's+Build+Something+Cool+Together!" alt="Typing SVG" />
 </p>
+
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=abhikumar0670&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -12,6 +14,9 @@
 
 ---
 ## 💫 About Me
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF3131,100:A020F0&height=55&section=header&text=Frontend%20Sorcerer&fontColor=ffffff&fontSize=28" alt="Waving Header" />
+</div>
 <table>
   <tr>
     <td valign="top" width="60%">
